@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pierre Riblet Cahurel and I'm a cybersecurity and development apprentice, from France</p>
+<p align="left">My name is Pierre Riblet Cahurel and I'm a cybersecurity and development apprentice, from France.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning to use github<br>🎯 Goals: work into cybersecurity <br>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning to use github.<br>🎯 Goals: work into cybersecurity or development (web for example).<br>
 
 ###
 
