@@ -10,3 +10,4 @@
 <br>
 
 - Here is my [tryhackme profile](https://tryhackme.com/p/prc.tryhackme) 
+<script src="https://tryhackme.com/badge/1976193"></script>
