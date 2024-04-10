@@ -10,6 +10,4 @@
 <br>
 
 - :globe_with_meridians: socials and other accounts :
-<li>
-  <ul>[tryhackme](https://tryhackme.com/p/prc.tryhackme)</ul>
-</li>
+  [tryhackme](https://tryhackme.com/p/prc.tryhackme)
