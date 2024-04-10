@@ -1,7 +1,3 @@
-<h1 align="left">Please Read me !</h1>
-
-###
-
 <p align="left">My name is Pierre Riblet Cahurel and I'm a cybersecurity and development apprentice, from France.</p>
 
 ###
