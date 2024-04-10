@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pierre Riblet Cahurel</h1>
-<h3 align="center">A passionate development and cybersecurity apprentice from France :fr:</h3>
+<h3 align="center">A passionate development and cybersecurity apprentice from France</h3>
+:fr:
 
 - 🔭 I’m currently working on [automated-pages-explorer](https://github.com/prc-github-prc/automated-pages-explorer)
 
