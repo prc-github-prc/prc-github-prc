@@ -10,5 +10,4 @@
 <br>
 
 - Here is my **tryhackme profile badge** :
-<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/prc.tryhackme.png" alt="TryHackMe">
