@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierre Riblet Cahurel</h1>
 <h3 align="center">A passionate development and cybersecurity apprentice from France :fr:</h3>
-
 <br>
 
 - <h3 align="left">Languages and Tools:</h3>
