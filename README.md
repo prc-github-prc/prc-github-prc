@@ -9,4 +9,4 @@
 - :globe_with_meridians: socials and other accounts :
   - [tryhackme](https://tryhackme.com/p/prc.tryhackme)
   - [rootme](https://www.root-me.org/Pierre-Riblet-Cahurel-874801)
-  - [twitter](https://twitter.com/RibletCahurel)
+  - [X(twitter)](https://twitter.com/RibletCahurel)
