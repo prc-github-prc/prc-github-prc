@@ -11,8 +11,6 @@
   - [rootme](https://www.root-me.org/Pierre-Riblet-Cahurel-874801)
   - [X(twitter)](https://twitter.com/RibletCahurel)
 
-contributions to other project :
-<br>
-[security-study-plan](https://github.com/jassics/security-study-plan):
-<br>
-  -[network security](https://github.com/jassics/security-study-plan/blob/main/network-security-study-plan.md)
+contributions to other project :<br>
+    -[security-study-plan](https://github.com/jassics/security-study-plan): <br>
+        -[network security](https://github.com/jassics/security-study-plan/blob/main/network-security-study-plan.md) <br>
