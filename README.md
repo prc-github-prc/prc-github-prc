@@ -12,5 +12,7 @@
   - [X(twitter)](https://twitter.com/RibletCahurel)
 
 contributions to other project :
+<br>
 [security-study-plan](https://github.com/jassics/security-study-plan):
--[network security](https://github.com/jassics/security-study-plan/blob/main/network-security-study-plan.md)
+<br>
+  -[network security](https://github.com/jassics/security-study-plan/blob/main/network-security-study-plan.md)
