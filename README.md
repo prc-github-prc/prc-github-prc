@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/pierre-r-75b498344**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pierre-riblet-cahurel-75b498344/](https://www.linkedin.com/in/pierre-riblet-cahurel-75b498344/) ____
-        [certifications](https://github.com/prc-github-prc/certifications-and-badges)
+- 📄 Know about my experiences [certifications](https://github.com/prc-github-prc/certifications-and-badges)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
